@@ -1,0 +1,41 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 mid toms",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "mt8/MT00.WAV",
+      "shortname": "MT00",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt8/MT10.WAV",
+      "shortname": "MT10",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt8/MT25.WAV",
+      "shortname": "MT25",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt8/MT50.WAV",
+      "shortname": "MT50",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mt8/MT75.WAV",
+      "shortname": "MT75",
+      "type": "sample"
+    }
+  ]
+}

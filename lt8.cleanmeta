@@ -1,0 +1,41 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 low toms",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "lt8/LT00.WAV",
+      "shortname": "LT00",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt8/LT10.WAV",
+      "shortname": "LT10",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt8/LT25.WAV",
+      "shortname": "LT25",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt8/LT50.WAV",
+      "shortname": "LT50",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lt8/LT75.WAV",
+      "shortname": "LT75",
+      "type": "sample"
+    }
+  ]
+}

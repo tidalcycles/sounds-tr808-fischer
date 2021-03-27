@@ -1,0 +1,41 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 hi congas",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "hc8/HC00.WAV",
+      "shortname": "HC00",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "hc8/HC10.WAV",
+      "shortname": "HC10",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "hc8/HC25.WAV",
+      "shortname": "HC25",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "hc8/HC50.WAV",
+      "shortname": "HC50",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "hc8/HC75.WAV",
+      "shortname": "HC75",
+      "type": "sample"
+    }
+  ]
+}

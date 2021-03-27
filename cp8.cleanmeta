@@ -1,0 +1,17 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 clap",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "cp8/CP.WAV",
+      "shortname": "CP",
+      "type": "sample"
+    }
+  ]
+}

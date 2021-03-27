@@ -1,0 +1,41 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 mid congas",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "mc8/MC00.WAV",
+      "shortname": "MC00",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mc8/MC10.WAV",
+      "shortname": "MC10",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mc8/MC25.WAV",
+      "shortname": "MC25",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mc8/MC50.WAV",
+      "shortname": "MC50",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "mc8/MC75.WAV",
+      "shortname": "MC75",
+      "type": "sample"
+    }
+  ]
+}

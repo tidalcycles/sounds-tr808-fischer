@@ -1,0 +1,161 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 snares",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "sd8/SD0000.WAV",
+      "shortname": "SD0000",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD0010.WAV",
+      "shortname": "SD0010",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD0025.WAV",
+      "shortname": "SD0025",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD0050.WAV",
+      "shortname": "SD0050",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD0075.WAV",
+      "shortname": "SD0075",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD1000.WAV",
+      "shortname": "SD1000",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD1010.WAV",
+      "shortname": "SD1010",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD1025.WAV",
+      "shortname": "SD1025",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD1050.WAV",
+      "shortname": "SD1050",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD1075.WAV",
+      "shortname": "SD1075",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD2500.WAV",
+      "shortname": "SD2500",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD2510.WAV",
+      "shortname": "SD2510",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD2525.WAV",
+      "shortname": "SD2525",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD2550.WAV",
+      "shortname": "SD2550",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD2575.WAV",
+      "shortname": "SD2575",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD5000.WAV",
+      "shortname": "SD5000",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD5010.WAV",
+      "shortname": "SD5010",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD5025.WAV",
+      "shortname": "SD5025",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD5050.WAV",
+      "shortname": "SD5050",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD5075.WAV",
+      "shortname": "SD5075",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD7500.WAV",
+      "shortname": "SD7500",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD7510.WAV",
+      "shortname": "SD7510",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD7525.WAV",
+      "shortname": "SD7525",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD7550.WAV",
+      "shortname": "SD7550",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "sd8/SD7575.WAV",
+      "shortname": "SD7575",
+      "type": "sample"
+    }
+  ]
+}

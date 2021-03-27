@@ -1,0 +1,161 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 cymbals",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "cy8/CY0000.WAV",
+      "shortname": "CY0000",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY0010.WAV",
+      "shortname": "CY0010",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY0025.WAV",
+      "shortname": "CY0025",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY0050.WAV",
+      "shortname": "CY0050",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY0075.WAV",
+      "shortname": "CY0075",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY1000.WAV",
+      "shortname": "CY1000",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY1010.WAV",
+      "shortname": "CY1010",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY1025.WAV",
+      "shortname": "CY1025",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY1050.WAV",
+      "shortname": "CY1050",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY1075.WAV",
+      "shortname": "CY1075",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY2500.WAV",
+      "shortname": "CY2500",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY2510.WAV",
+      "shortname": "CY2510",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY2525.WAV",
+      "shortname": "CY2525",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY2550.WAV",
+      "shortname": "CY2550",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY2575.WAV",
+      "shortname": "CY2575",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY5000.WAV",
+      "shortname": "CY5000",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY5010.WAV",
+      "shortname": "CY5010",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY5025.WAV",
+      "shortname": "CY5025",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY5050.WAV",
+      "shortname": "CY5050",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY5075.WAV",
+      "shortname": "CY5075",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY7500.WAV",
+      "shortname": "CY7500",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY7510.WAV",
+      "shortname": "CY7510",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY7525.WAV",
+      "shortname": "CY7525",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY7550.WAV",
+      "shortname": "CY7550",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "cy8/CY7575.WAV",
+      "shortname": "CY7575",
+      "type": "sample"
+    }
+  ]
+}

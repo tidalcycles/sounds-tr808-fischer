@@ -1,0 +1,41 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 low congas",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "lc8/LC00.WAV",
+      "shortname": "LC00",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lc8/LC10.WAV",
+      "shortname": "LC10",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lc8/LC25.WAV",
+      "shortname": "LC25",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lc8/LC50.WAV",
+      "shortname": "LC50",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "lc8/LC75.WAV",
+      "shortname": "LC75",
+      "type": "sample"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 closed hi hat",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "ch8/CH.WAV",
+      "shortname": "CH",
+      "type": "sample"
+    }
+  ]
+}

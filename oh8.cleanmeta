@@ -1,0 +1,41 @@
+{
+  "copyright": "(c) Michael Fischer / Technopolis",
+  "description": "TR-808 open hi hats",
+  "email": "alex@slab.org",
+  "license": "cc0",
+  "maintainer": "alex",
+  "metadata-format": "clean-0.1",
+  "provenance": "",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "oh8/OH00.WAV",
+      "shortname": "OH00",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "oh8/OH10.WAV",
+      "shortname": "OH10",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "oh8/OH25.WAV",
+      "shortname": "OH25",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "oh8/OH50.WAV",
+      "shortname": "OH50",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "oh8/OH75.WAV",
+      "shortname": "OH75",
+      "type": "sample"
+    }
+  ]
+}
