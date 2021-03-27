@@ -1,3 +1,4 @@
+```
 =-=-=-=-=-=-=-=-=-=-=
    Michael Fischer
 
@@ -196,7 +197,4 @@ Michael Fischer
 Technopolis
 (810) 650-6396
 fischer1@student.msu.edu
-
-
-
-
+```
