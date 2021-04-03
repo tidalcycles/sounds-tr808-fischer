@@ -6,36 +6,33 @@
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "",
+  "shortname": "lc8",
+  "sound_type": "sample",
   "sounds": [
     {
       "description": "",
       "filename": "lc8/LC00.WAV",
-      "shortname": "LC00",
-      "type": "sample"
+      "shortname": "LC00"
     },
     {
       "description": "",
       "filename": "lc8/LC10.WAV",
-      "shortname": "LC10",
-      "type": "sample"
+      "shortname": "LC10"
     },
     {
       "description": "",
       "filename": "lc8/LC25.WAV",
-      "shortname": "LC25",
-      "type": "sample"
+      "shortname": "LC25"
     },
     {
       "description": "",
       "filename": "lc8/LC50.WAV",
-      "shortname": "LC50",
-      "type": "sample"
+      "shortname": "LC50"
     },
     {
       "description": "",
       "filename": "lc8/LC75.WAV",
-      "shortname": "LC75",
-      "type": "sample"
+      "shortname": "LC75"
     }
   ]
 }

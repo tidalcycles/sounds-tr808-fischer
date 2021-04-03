@@ -1,17 +1,18 @@
 {
   "copyright": "(c) Michael Fischer / Technopolis",
-  "description": "TR-808 closed hi hat",
+  "description": "TR-808 cowbell",
   "email": "alex@slab.org",
   "license": "cc0",
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "",
+  "shortname": "cb8",
+  "sound_type": "sample",
   "sounds": [
     {
       "description": "",
-      "filename": "ch8/CH.WAV",
-      "shortname": "CH",
-      "type": "sample"
+      "filename": "cb8/CB.WAV",
+      "shortname": "CB"
     }
   ]
 }

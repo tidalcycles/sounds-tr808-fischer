@@ -1,17 +1,18 @@
 {
   "copyright": "(c) Michael Fischer / Technopolis",
-  "description": "TR-808 maracas",
+  "description": "TR-808 clave",
   "email": "alex@slab.org",
   "license": "cc0",
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "",
+  "shortname": "cl8",
+  "sound_type": "sample",
   "sounds": [
     {
       "description": "",
-      "filename": "ma8/MA.WAV",
-      "shortname": "MA",
-      "type": "sample"
+      "filename": "cl8/CL.WAV",
+      "shortname": "CL"
     }
   ]
 }

@@ -6,12 +6,13 @@
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "",
+  "shortname": "rs8",
+  "sound_type": "sample",
   "sounds": [
     {
       "description": "",
       "filename": "rs8/RS.WAV",
-      "shortname": "RS",
-      "type": "sample"
+      "shortname": "RS"
     }
   ]
 }

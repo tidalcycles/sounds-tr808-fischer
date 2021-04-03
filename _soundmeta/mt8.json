@@ -6,36 +6,33 @@
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "",
+  "shortname": "mt8",
+  "sound_type": "sample",
   "sounds": [
     {
       "description": "",
       "filename": "mt8/MT00.WAV",
-      "shortname": "MT00",
-      "type": "sample"
+      "shortname": "MT00"
     },
     {
       "description": "",
       "filename": "mt8/MT10.WAV",
-      "shortname": "MT10",
-      "type": "sample"
+      "shortname": "MT10"
     },
     {
       "description": "",
       "filename": "mt8/MT25.WAV",
-      "shortname": "MT25",
-      "type": "sample"
+      "shortname": "MT25"
     },
     {
       "description": "",
       "filename": "mt8/MT50.WAV",
-      "shortname": "MT50",
-      "type": "sample"
+      "shortname": "MT50"
     },
     {
       "description": "",
       "filename": "mt8/MT75.WAV",
-      "shortname": "MT75",
-      "type": "sample"
+      "shortname": "MT75"
     }
   ]
 }

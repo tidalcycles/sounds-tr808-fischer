@@ -1,161 +1,138 @@
 {
   "copyright": "(c) Michael Fischer / Technopolis",
-  "description": "TR-808 clave",
+  "description": "TR-808 bass drums",
   "email": "alex@slab.org",
   "license": "cc0",
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "",
+  "shortname": "bd8",
+  "sound_type": "sample",
   "sounds": [
     {
       "description": "",
       "filename": "bd8/BD0000.WAV",
-      "shortname": "BD0000",
-      "type": "sample"
+      "shortname": "BD0000"
     },
     {
       "description": "",
       "filename": "bd8/BD0010.WAV",
-      "shortname": "BD0010",
-      "type": "sample"
+      "shortname": "BD0010"
     },
     {
       "description": "",
       "filename": "bd8/BD0025.WAV",
-      "shortname": "BD0025",
-      "type": "sample"
+      "shortname": "BD0025"
     },
     {
       "description": "",
       "filename": "bd8/BD0050.WAV",
-      "shortname": "BD0050",
-      "type": "sample"
+      "shortname": "BD0050"
     },
     {
       "description": "",
       "filename": "bd8/BD0075.WAV",
-      "shortname": "BD0075",
-      "type": "sample"
+      "shortname": "BD0075"
     },
     {
       "description": "",
       "filename": "bd8/BD1000.WAV",
-      "shortname": "BD1000",
-      "type": "sample"
+      "shortname": "BD1000"
     },
     {
       "description": "",
       "filename": "bd8/BD1010.WAV",
-      "shortname": "BD1010",
-      "type": "sample"
+      "shortname": "BD1010"
     },
     {
       "description": "",
       "filename": "bd8/BD1025.WAV",
-      "shortname": "BD1025",
-      "type": "sample"
+      "shortname": "BD1025"
     },
     {
       "description": "",
       "filename": "bd8/BD1050.WAV",
-      "shortname": "BD1050",
-      "type": "sample"
+      "shortname": "BD1050"
     },
     {
       "description": "",
       "filename": "bd8/BD1075.WAV",
-      "shortname": "BD1075",
-      "type": "sample"
+      "shortname": "BD1075"
     },
     {
       "description": "",
       "filename": "bd8/BD2500.WAV",
-      "shortname": "BD2500",
-      "type": "sample"
+      "shortname": "BD2500"
     },
     {
       "description": "",
       "filename": "bd8/BD2510.WAV",
-      "shortname": "BD2510",
-      "type": "sample"
+      "shortname": "BD2510"
     },
     {
       "description": "",
       "filename": "bd8/BD2525.WAV",
-      "shortname": "BD2525",
-      "type": "sample"
+      "shortname": "BD2525"
     },
     {
       "description": "",
       "filename": "bd8/BD2550.WAV",
-      "shortname": "BD2550",
-      "type": "sample"
+      "shortname": "BD2550"
     },
     {
       "description": "",
       "filename": "bd8/BD2575.WAV",
-      "shortname": "BD2575",
-      "type": "sample"
+      "shortname": "BD2575"
     },
     {
       "description": "",
       "filename": "bd8/BD5000.WAV",
-      "shortname": "BD5000",
-      "type": "sample"
+      "shortname": "BD5000"
     },
     {
       "description": "",
       "filename": "bd8/BD5010.WAV",
-      "shortname": "BD5010",
-      "type": "sample"
+      "shortname": "BD5010"
     },
     {
       "description": "",
       "filename": "bd8/BD5025.WAV",
-      "shortname": "BD5025",
-      "type": "sample"
+      "shortname": "BD5025"
     },
     {
       "description": "",
       "filename": "bd8/BD5050.WAV",
-      "shortname": "BD5050",
-      "type": "sample"
+      "shortname": "BD5050"
     },
     {
       "description": "",
       "filename": "bd8/BD5075.WAV",
-      "shortname": "BD5075",
-      "type": "sample"
+      "shortname": "BD5075"
     },
     {
       "description": "",
       "filename": "bd8/BD7500.WAV",
-      "shortname": "BD7500",
-      "type": "sample"
+      "shortname": "BD7500"
     },
     {
       "description": "",
       "filename": "bd8/BD7510.WAV",
-      "shortname": "BD7510",
-      "type": "sample"
+      "shortname": "BD7510"
     },
     {
       "description": "",
       "filename": "bd8/BD7525.WAV",
-      "shortname": "BD7525",
-      "type": "sample"
+      "shortname": "BD7525"
     },
     {
       "description": "",
       "filename": "bd8/BD7550.WAV",
-      "shortname": "BD7550",
-      "type": "sample"
+      "shortname": "BD7550"
     },
     {
       "description": "",
       "filename": "bd8/BD7575.WAV",
-      "shortname": "BD7575",
-      "type": "sample"
+      "shortname": "BD7575"
     }
   ]
 }

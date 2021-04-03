@@ -6,12 +6,13 @@
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "",
+  "shortname": "cp8",
+  "sound_type": "sample",
   "sounds": [
     {
       "description": "",
       "filename": "cp8/CP.WAV",
-      "shortname": "CP",
-      "type": "sample"
+      "shortname": "CP"
     }
   ]
 }

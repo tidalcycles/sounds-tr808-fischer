@@ -6,36 +6,33 @@
   "maintainer": "alex",
   "metadata-format": "clean-0.1",
   "provenance": "",
+  "shortname": "oh8",
+  "sound_type": "sample",
   "sounds": [
     {
       "description": "",
       "filename": "oh8/OH00.WAV",
-      "shortname": "OH00",
-      "type": "sample"
+      "shortname": "OH00"
     },
     {
       "description": "",
       "filename": "oh8/OH10.WAV",
-      "shortname": "OH10",
-      "type": "sample"
+      "shortname": "OH10"
     },
     {
       "description": "",
       "filename": "oh8/OH25.WAV",
-      "shortname": "OH25",
-      "type": "sample"
+      "shortname": "OH25"
     },
     {
       "description": "",
       "filename": "oh8/OH50.WAV",
-      "shortname": "OH50",
-      "type": "sample"
+      "shortname": "OH50"
     },
     {
       "description": "",
       "filename": "oh8/OH75.WAV",
-      "shortname": "OH75",
-      "type": "sample"
+      "shortname": "OH75"
     }
   ]
 }
